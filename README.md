@@ -1,5 +1,1 @@
-# WUI1708-11.28
-#交 三个网页   
-* 小米
-* 天猫
-* 移动
+https://nyamercer.github.io/KKKK/xiaomi/index.html
