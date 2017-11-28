@@ -1,5 +1,3 @@
-# WUI1708-11.28
-#交 三个网页   
-* 小米
-* 天猫
-* 移动
+*小米https://han1193569188.github.io/xiaomi/
+*天猫https://han1193569188.github.io/tmall/
+*移动https://han1193569188.github.io/chinaMobilec/
